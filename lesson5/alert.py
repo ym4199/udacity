@@ -2,6 +2,7 @@ import urllib
 
 
 def read_text():
+    # write down file address
     quotes = open()
     contents_of_file = quotes.read()
     print(contents_of_file)

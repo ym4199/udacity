@@ -13,7 +13,7 @@ def draw_square():
 
     tslow = turtle.Turtle()
     tslow.color('yellow')
-    tslow.shape('turtle')
+    tslow.shape('classic')
     tslow.speed(10)
 
     for i in range(18):
