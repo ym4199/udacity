@@ -21,4 +21,9 @@ the_circle = media.Movie(
 
 
 movies = [toy_story, avatar, the_circle]
-fresh_tomatoes.open_movies_page(movies)
+# fresh_tomatoes.open_movies_page(movies)
+
+
+print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
+print(media.Movie.__name__)
